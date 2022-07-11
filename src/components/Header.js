@@ -17,6 +17,7 @@ const Header = () => {
 							id="menu.home"
 							defaultMessage="Home"
 						/>
+						
 					</Link>
 					<Link to="/explore">
 						<FormattedMessage

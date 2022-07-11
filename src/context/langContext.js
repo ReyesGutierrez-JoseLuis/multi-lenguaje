@@ -23,6 +23,7 @@ const LangProvider = ({children}) => {
 		}
 	}
 
+	
 	const [mensajes, establecerMensajes] = useState(mensajesPorDefecto);
 	const [locale, establecerLocale] = useState(localePorDefecto);
 
